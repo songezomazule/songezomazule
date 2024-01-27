@@ -5,7 +5,7 @@
 
 
 My name is Songezo Mazule, I do backend development. I really enjoy coding and learning new ways of coding. I have been working with API's and Servers, recently have been learning SQL databases especially Postgress.
-I am familior with HTML and CSS.
+I am familiar with HTML and CSS.
 I am good with JavaScript as a programming language and its frameworks NodeJS and Express.
 You can check out some of my projects and code in my repository.
 
