@@ -1,13 +1,18 @@
-<h1 align="center">Hi there👋, My name is Songezo Mazule</h1>
+<h1 align="center">Hi there👋, I'm Songezo Mazule</h1>
 <h3 align="center">A passionate Software Developer from South Africa.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=songezomazule&label=Profile%20views&color=0e75b6&style=flat" alt="songezomazule" /> </p>
 
-- 🌱 I’m currently learning **Backend development, Cloud**
+
+My name is Songezo Mazule, I do backend development. I really enjoy coding and learning new ways of coding. I have been working with API's and Servers, recently been learning databases especially Postgress.
+I am familior with HTML and CSS.
+I am good with JavaScript as a programming language and its frame work NodeJS.
+You can check out some of my projects and code on my repository.
+
+- 🌱 I’m currently working my way around the cloud space.**
 
 - 📫 How to reach me **luckysongezomazule@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
