@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=songezomazule&label=Profile%20views&color=0e75b6&style=flat" alt="songezomazule" /> </p>
 
 
-My name is Songezo Mazule, I do backend development. I really enjoy coding and learning new ways of coding. I have been working with API's and recently have been learning SQL databases especially Postgress.
-I am familiar with HTML and CSS.
+My name is Songezo Mazule, I do backend development. I really enjoy coding and learning new ways of coding. I have been working with API's and recently have been learning SQL databases.
 I am good with JavaScript and its framework NodeJS and server side with Express.
 You can check out some of my projects and code in my repository.
 
